@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arjun-ANS
 - 👀 I’m interested in Electronics and Programming
-- 📫 Gmail - legendofbrilliant@gmail.com
+- 📫 Gmail - ansarjun415@gmail.com
 - ⚡ Fun fact: You have just README :)
 
 <!---
